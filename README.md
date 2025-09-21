@@ -64,10 +64,11 @@ m x n caracteres indicando tipos das células.
 
 m x n bits (0 = morta, 1 = viva).
 
+Exemplos disponíveis nos arquivos.
 
-============================================
+================================
 CUIDADOS
-============================================
+================================
 
 -Durante a edição, CERTIFIQUE-SE QUE CADA TABULEIRO ESTEJA PREENCHIDO NO MESMO PADRÃO QUE ORIGINALMENTE CARREGADOS.
 
