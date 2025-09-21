@@ -67,7 +67,6 @@ m x n bits (0 = morta, 1 = viva).
 Exemplos disponíveis nos arquivos.
 
 =============
-
         CUIDADOS
         
 ============
