@@ -79,5 +79,6 @@ Exemplos disponíveis nos arquivos.
 
 Objetivo do jogo:
 
-Observar e explorar a evolução dos padrões das células. Não há pontuação nem condução de vitória: o foco é a experiência visual e a análise do comportamento emergente
+Observar e explorar a evolução dos padrões das céculas. Não há pontuação nem condição de vitória; o foco é a experiência visual e a análise do comportamento emergente
+
 ======================================================================================================================
