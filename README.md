@@ -36,9 +36,9 @@ Aplicação em java para calcular iterações de um Jogo da Vida de Conway aprim
   m x n caracteres indicando tipos das células.
   m x n bits (0 = morta, 1 = viva).
   
-  ======================================================================================================================
+  ============================================
   CUIDADOS
-  ======================================================================================================================
+  ============================================
   -Durante a edição, CERTIFIQUE-SE QUE CADA TABULEIRO ESTEJA PREENCHIDO NO MESMO PADRÃO QUE ORIGINALMENTE CARREGADOS.
   -Toda célula separada por um espaço.
   -Ao editar o tamanho, certifique-se que o tabuleiro não possui irregularidades (linhas ou colunas maiores que outras), ou espaços e qebras de linha adicionais.
