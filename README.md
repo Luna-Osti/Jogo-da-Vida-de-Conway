@@ -1,9 +1,9 @@
 # Jogo-da-Vida-de-Conway
 Aplicação em java para calcular iterações de um Jogo da Vida de Conway aprimorado
 
-======================================================================================================================
-                            INFORMAÇÕES — JOGO DA VIDA
-======================================================================================================================
+  ==========================================
+          INFORMAÇÕES — JOGO DA VIDA
+  ==========================================
   O que é o Jogo da Vida?
   O Jogo da Vida (ou “Game of Life”) é um autômato celular criado por John Conway. É uma simulação onde células em um tabuleiro evoluem automaticamente, sem necessidade de interação do usuário durante as iterações.
   
